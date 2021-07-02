@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="textStyle">
+        <item name="android:textSize">30sp</item>
+        <item name="android:textColor">@color/textColor</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:layout_marginBottom">10dp</item>
+    </style>
+
+    <style name="buttonStyle">
+        <item name="android:layout_marginBottom">20dp</item>
+        <item name="android:textColor">@color/textColor</item>
+        <item name="android:backgroundTint">@color/white</item>
+    </style>
+
+    <style name="welcome" parent="textStyle">
+        <item name="android:textSize">50sp</item>
+    </style>
+</resources>
