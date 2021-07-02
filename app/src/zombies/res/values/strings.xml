@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">Humanos para zombies</string>
+    <string name="app_name">Invasión Zombie</string>
+    <string name="username">Zombie</string>
 </resources>

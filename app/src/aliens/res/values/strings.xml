@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">Humanos para aliens</string>
+    <string name="app_name">Invasión Alien</string>
+    <string name="username">Alien</string>
 </resources>
